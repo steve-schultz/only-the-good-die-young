@@ -1,0 +1,317 @@
+//Font Stack
+@import url('https://fonts.googleapis.com/css?family=Oswald:300,400,500');
+
+//background and Nav
+
+.App {
+text-align: center;
+font-family: 'Oswald';
+//background-color: #222;
+}
+
+// App Nav
+.App-header {
+  background-color: transparent;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow: scroll;
+  display: inline-block;
+  height: 100vh;
+  width: 25vw;
+  margin-left: -23vw;
+  transition: .5s ease-in-out;
+  z-index: 8;
+  color: black;
+  @media (max-width: 768px){
+    transform: rotate(-90deg);
+    transform-origin: top left;
+    margin-left: 0 !important;
+    top: 40px;
+    width: 40px;
+    height: 100vw;
+  }
+  &:hover{
+    transform: translateX(20vw);
+    @media (max-width: 768px){
+      width: 100vw;
+      transform: translateX(0);
+    }
+  }
+
+  .key{
+    color: white;
+    font-weight: 300;
+    background-color: black;
+    &-color  {
+      text-align: center;
+      height: 25px;
+    }
+    &-title{
+      line-height: 25px;
+      font-size: 14px;
+      @media (max-width: 768px){
+        margin-left: 40px;
+      }
+    }
+  }
+}
+
+.Cells {
+  width: 98vw;
+  display: inline-block;
+  margin-top: 32px;
+  margin-bottom: 100px;
+  opacity: .9;
+  margin-left: 2vw;
+  @media(max-width: 768px){
+    width: 100vw;
+    margin-left: 0 !important;
+    width: 100vw !important;
+  }
+  &--grid {
+    $gutter: 8px;
+    //margin-left: $gutter;
+    //width: calc(50% - 64px);
+    width: 170px;
+    display: inline-block;
+    $width: calc(50% - 64px);
+
+    @media (min-width: 1400px){
+      width: 170px;
+      $width: calc(25% - 64px);
+    }
+    @media (max-width: 768px){
+      width: 170px;
+      margin-left: 0 !important;
+    }
+  }
+}
+
+.cell {
+  height: 64px;
+  letter-spacing: 2px;
+  margin-top: 18px;
+  text-align: left;
+  display: inline-block;
+  box-sizing: border-box;
+  //filter: drop-shadow(0 0 2px rgba(0,0,0,.3));
+  //box-shadow: 1px 1px 1px black;
+  letter-spacing: 1px;
+  //transition: .7s ease-in-out;
+  //transition-delay: scale .2s;
+
+  //Flip every other cell for pattern
+    &:nth-of-type(even){
+      .cell--bg{
+        transform: rotate(180deg);
+      }
+    }
+
+// Begin cell contents
+
+  .cell--block{
+    height: 64px;
+    overflow: hidden;
+    box-sizing: border-box;
+
+// Top of cell bg
+    .wrapper  {
+      overflow: hidden;
+      margin: 0 21px;
+      height: 39px;
+      position: relative;
+      text-align: center;
+      &:nth-of-type(odd){
+        top: 0;
+      }
+      &:nth-of-type(even){
+        bottom: 0;
+      }
+    }
+
+    .bottom  {
+      width: 170px;
+      height: 25px;
+      text-align: center;
+      position: relative;
+      &:nth-of-type(odd){
+        bottom: 0;
+      }
+      &:nth-of-type(even){
+        top: 0;
+      }
+    }
+  }
+
+  // Cell text
+  .info  {
+    min-height: 64px;
+    margin-top: -56px;
+    margin-left: 21px;
+    margin-right: 21px;
+    z-index: 200;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+
+    .age  {
+      font-size: 10px;
+      color: white;
+    }
+
+    .name{
+      color: white;
+      font-size: 12px;
+      font-weight: 300;
+      text-transform: uppercase;
+    }
+
+    .band  {
+      color: white;
+      font-size: 12px;
+      line-height: 24px;
+      font-weight: 300;
+    }
+
+    .cause {
+      color: white;
+      font-size: 12px;
+      line-height: 24px;
+      font-weight: 300;
+    }
+  }
+
+// Modify cell on Hover
+  &:hover{
+    transform: scale(1.1) translateZ(1000px);
+  }
+}
+
+//Modal Classes
+.Modal {
+    position: absolute;
+    top: 16px;
+    left: 100px;
+    right: 100px;
+    bottom: 40px;
+    background-color: white;
+    padding: 0;
+    overflow: hidden;
+    box-shadow: 0px 0px 8px rgba(0,0,0,.6);
+    &-close-button{
+      background: black;
+      border: 4px solid black;
+      border-radius: 0;
+      color: white;
+      padding: 16px;
+      position: fixed;
+      right: 32px;
+    }
+    &:focus{
+      outline: none;
+    }
+  }
+
+  .Overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255,255,255,.3);
+  }
+
+.modal-info  {
+  color: white;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  margin-top: -24px;
+  padding: 48px;
+}
+
+//Color Variables
+$misc-medical: rgba(253,96,45,1);
+$heart-attack: rgba(147,34,43,1);
+$drug-overdose: rgba(120,197,145,1);
+$cancer:  rgba(212,221,66,1);
+$suicide: rgba(88,86,89,1);
+$car-accident: rgba(162,220,232,1);
+$airplane-crash:  rgba(247,197,46,1);
+$murdered:  rgba(238,54,120,1);
+$alcohol: rgba(173,169,106,1);
+$accident:  rgba(103,119,80,1);
+$drowned: rgba(54,96,82,1);
+$aids:  rgba(253,60,45,1);
+$poisoned:  rgba(155,84,100,1);
+$electrocuted:  rgba(148,206,148,1);
+$fire:  rgba(205,227,155,1);
+$unknown:  rgba(174,157,167,1);
+$choked:  rgba(178,172,146,1);
+$brain-tumor: rgba(244,144,144,1) ;
+
+//Cause Names
+.medical{
+  background-color: $misc-medical;
+}
+.heart-attack{
+  background-color: $heart-attack;
+}
+.drug-overdose{
+  background-color: $drug-overdose;
+}
+.cancer{
+  background-color: $cancer;
+}
+.suicide{
+  background-color: $suicide;
+}
+.car-accident {
+  background-color: $car-accident;
+}
+.brain-tumor{
+  background-color: $brain-tumor;
+}
+.motorcycle-accident{
+  background-color: Purple;
+}
+.airplane-crash{
+  background-color: $airplane-crash;
+}
+.murdered{
+  background-color: $murdered;
+}
+.alcohol-overdose{
+  background-color: $alcohol;
+}
+.accident{
+  background-color: $accident;
+}
+.drowned{
+  background-color: $drowned;
+}
+.aids{
+  background-color: $aids;
+}
+.poisoned{
+  background-color: $poisoned;
+}
+.electrocuted{
+  background-color: $electrocuted;
+}
+.fire{
+  background-color: $fire;
+}
+.unknown{
+  background-color: $unknown;
+}
+.choked{
+  background-color: $choked;
+}
+.fall {
+  background-color: black;
+}
+.brain-aneurysm  {
+  background-color: purple;
+}

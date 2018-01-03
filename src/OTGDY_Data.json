@@ -1,0 +1,2591 @@
+[
+  {
+    "First": "Johnny",
+    "Last": "Ace",
+    "Band": " ",
+    "Date": "54-12-24",
+    "Age": 25,
+    "Cause": "Suicide",
+    "SongURI": "https://open.spotify.com/embed?uri=spotify:track:1UA7hoj7yPwW8V9NxXG8yT&theme=white"
+  },
+  {
+    "First": "Nick",
+    "Last": "Acland",
+    "Band": "Lush",
+    "Date": "96-10-17",
+    "Age": 30,
+    "Cause": "Suicide",
+    "SongURI": "https://open.spotify.com/embed?uri=spotify:track:5Spepb3tkndyhhQLgr2jpL&theme=white"
+  },
+  {
+    "First": "Carl",
+    "Last": "Albert",
+    "Band": "Vicious Rumours",
+    "Date": "95-04-23",
+    "Age": "",
+    "Cause": "Car Accident",
+    "SongURI": "https://open.spotify.com/embed?uri=spotify:track:2AlkCFq6gW0LrVISWRZx2b&theme=white"
+  },
+  {
+    "First": "Thomas",
+    "Last": "Allen",
+    "Band": "War",
+    "Date": "88-08-30",
+    "Age": "",
+    "Cause": "Brain Aneurysm",
+    "SongURI": "https://open.spotify.com/embed?uri=spotify:track:2fmMPJb5EzZCx8BcNJvVk4&theme=white"
+  },
+  {
+    "First": "GG",
+    "Last": "Allin",
+    "Band": " ",
+    "Date": "93-06-28",
+    "Age": 36,
+    "Cause": "Drug Overdose",
+    "SongURI": "https://open.spotify.com/embed?uri=spotify:track:7JQKj4FveKAYgk1UzW8Vo3&theme=white"
+  },
+  {
+    "First": "Luther",
+    "Last": "Allison",
+    "Band": " ",
+    "Date": "97-08-12",
+    "Age": 58,
+    "Cause": "Brain Tumor",
+    "SongURI": "https://open.spotify.com/embed?uri=spotify:track:5TvM5WFaegJk7VRgPOWGTe&theme=white"
+  },
+  {
+    "First": "Duane",
+    "Last": "Allman",
+    "Band": "Allman Brothers Band",
+    "Date": "71-10-29",
+    "Age": 24,
+    "Cause": "Motorcycle accident"
+  },
+  {
+    "First": "Matthew",
+    "Last": "Ashman",
+    "Band": "Bow Wow Wow",
+    "Date": "95-11-21",
+    "Age": 35,
+    "Cause": "Medical",
+    "Specific": "Diabetes"
+  },
+  {
+    "First": "Chet",
+    "Last": "Baker",
+    "Band": " ",
+    "Date": "88-05-13",
+    "Age": 58,
+    "Cause": "Fall",
+    "Specific": "Fell out Window"
+  },
+  {
+    "First": "Florence",
+    "Last": "Ballard",
+    "Band": "Supremes",
+    "Date": "76-02-22",
+    "Age": 32,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Ray",
+    "Last": "Barbieri(Raybeez)",
+    "Band": "Warzone",
+    "Date": "97-08-11",
+    "Age": "",
+    "Cause": "Pneumonia"
+  },
+  {
+    "First": "Carlton",
+    "Last": "Barrett",
+    "Band": "Wailers",
+    "Date": "87-04-17",
+    "Age": 37,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Stiv",
+    "Last": "Bators",
+    "Band": "Dead Boys",
+    "Date": "90-06-03",
+    "Age": 40,
+    "Cause": "Traffic Accident",
+    "Specific": "Hit By A Car"
+  },
+  {
+    "First": "Paul",
+    "Last": "Beaver",
+    "Band": "Beaver and Krause",
+    "Date": "75-01-16",
+    "Age": 50,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Chris",
+    "Last": "Bell",
+    "Band": "Big Star",
+    "Date": "78-12-27",
+    "Age": 27,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Jesse",
+    "Last": "Belvin",
+    "Band": "Jesse & Marvin",
+    "Date": "60-02-06",
+    "Age": 26,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Duster",
+    "Last": "Bennett",
+    "Band": " ",
+    "Date": "76-03-26",
+    "Age": 29,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Bert",
+    "Last": "Berns",
+    "Band": "(producer)",
+    "Date": "67-12-30",
+    "Age": 38,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Alan",
+    "Last": "Blakley",
+    "Band": "Tremeloes",
+    "Date": "95-..-..",
+    "Age": "",
+    "Cause": ""
+  },
+  {
+    "First": "Bobby",
+    "Last": "Bloom",
+    "Band": " ",
+    "Date": "74-02-28",
+    "Age": 28,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Mike",
+    "Last": "Bloomfield",
+    "Band": " ",
+    "Date": "81-02-15",
+    "Age": 37,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Marc",
+    "Last": "Bolan",
+    "Band": "T-Rex",
+    "Date": "77-09-16",
+    "Age": 30,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Tommy",
+    "Last": "Bolin",
+    "Band": "Deep Purple",
+    "Date": "76-12-04",
+    "Age": 25,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Graham",
+    "Last": "Bond",
+    "Band": " ",
+    "Date": "74-05-08",
+    "Age": 36,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Ronnie",
+    "Last": "Bond",
+    "Band": "Troggs",
+    "Date": "92-12-..",
+    "Age": 49,
+    "Cause": ""
+  },
+  {
+    "First": "John",
+    "Last": "Bonham",
+    "Band": "Led Zeppelin",
+    "Date": "80-09-25",
+    "Age": 32,
+    "Cause": "Alcohol Overdose"
+  },
+  {
+    "First": "Dennes",
+    "Last": "Boon",
+    "Band": "Minutemen",
+    "Date": "85-12-22",
+    "Age": 27,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "David",
+    "Last": "Box",
+    "Band": "Crickets",
+    "Date": "64-10-23",
+    "Age": 21,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Lee",
+    "Last": "Brilleaux",
+    "Band": "Dr. Feelgood",
+    "Date": "95-04-07",
+    "Age": 41,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Jo (Jonas)",
+    "Last": "Bruce",
+    "Band": "Afro Celt Sound System",
+    "Date": "97-10-08",
+    "Age": 28,
+    "Cause": "Medical",
+    "Specific": "Asthma"
+  },
+  {
+    "First": "Roy",
+    "Last": "Buchanan",
+    "Band": " ",
+    "Date": "88-08-14",
+    "Age": 48,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Jeff",
+    "Last": "Buckley",
+    "Band": " ",
+    "Date": "97-05-29",
+    "Age": 30,
+    "Cause": "Drowned"
+  },
+  {
+    "First": "Tim",
+    "Last": "Buckley",
+    "Band": " ",
+    "Date": "75-06-29",
+    "Age": 28,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Johnny",
+    "Last": "Burnette",
+    "Band": " ",
+    "Date": "64-..-..",
+    "Age": 30,
+    "Cause": "Drowned"
+  },
+  {
+    "First": "Cliff",
+    "Last": "Burton",
+    "Band": "Metallica",
+    "Date": "87-09-27",
+    "Age": 25,
+    "Cause": "Traffic Accident"
+  },
+  {
+    "First": "Paul",
+    "Last": "Butterfield",
+    "Band": "Butterfield Blues Band",
+    "Date": "87-05-04",
+    "Age": 44,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Glenn",
+    "Last": "Buxton",
+    "Band": "Alice Cooper",
+    "Date": "97-10-19",
+    "Age": 49,
+    "Cause": "Pneumonia"
+  },
+  {
+    "First": "David",
+    "Last": "Byron",
+    "Band": "Uriah Heep",
+    "Date": "85-02-28",
+    "Age": 38,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Ronnie",
+    "Last": "Caldwell",
+    "Band": "Bar-Kays",
+    "Date": "67-12-10",
+    "Age": 19,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Tommy",
+    "Last": "Caldwell",
+    "Band": "Marshall Tucker Band",
+    "Date": "80-04-28",
+    "Age": 30,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Randy",
+    "Last": "California",
+    "Band": "Spirit",
+    "Date": "97-01-02",
+    "Age": 45,
+    "Cause": "Drowned"
+  },
+  {
+    "First": "Robert",
+    "Last": "Calvert",
+    "Band": "Hawkwind",
+    "Date": "88-08-14",
+    "Age": 42,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "John",
+    "Last": "Campbell",
+    "Band": " ",
+    "Date": "93-06-..",
+    "Age": 41,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Karen",
+    "Last": "Carpenter",
+    "Band": "Carpenters",
+    "Date": "83-02-04",
+    "Age": 33,
+    "Cause": "Anorexia"
+  },
+  {
+    "First": "Eric",
+    "Last": "Carr",
+    "Band": "Kiss",
+    "Date": "91-11-24",
+    "Age": 41,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Chas",
+    "Last": "Chandler",
+    "Band": "Animals",
+    "Date": "96-07-17",
+    "Age": 58,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Harry",
+    "Last": "Chapin",
+    "Band": " ",
+    "Date": "81-07-16",
+    "Age": 38,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Bill",
+    "Last": "Chase",
+    "Band": "Chase",
+    "Date": "74-08-12",
+    "Age": 39,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Miss",
+    "Last": "Christine",
+    "Band": "GTO's",
+    "Date": "72-11-05",
+    "Age": "",
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "John",
+    "Last": "Cipollina",
+    "Band": "Quicksilver Messenger Service",
+    "Date": "89-05-29",
+    "Age": 45,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Gene",
+    "Last": "Clark",
+    "Band": "Byrds",
+    "Date": "91-05-24",
+    "Age": 49,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Steve",
+    "Last": "Clark",
+    "Band": "Def Leppard",
+    "Date": "91-01-08",
+    "Age": 30,
+    "Cause": "Alcohol Overdose"
+  },
+  {
+    "First": "Walter",
+    "Last": "Clark",
+    "Band": "Chase",
+    "Date": "74-08-12",
+    "Age": 25,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Michael",
+    "Last": "Clarke",
+    "Band": "Byrds",
+    "Date": "93-12-02",
+    "Age": 50,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Kurt",
+    "Last": "Cobain",
+    "Band": "Nirvana",
+    "Date": "94-04-05",
+    "Age": 27,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Eddie",
+    "Last": "Cochran",
+    "Band": " ",
+    "Date": "60-04-17",
+    "Age": 21,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Brian",
+    "Last": "Cole",
+    "Band": "Association",
+    "Date": "72-08-02",
+    "Age": 28,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Nat 'King'",
+    "Last": "Cole",
+    "Band": " ",
+    "Date": "65-02-15",
+    "Age": 48,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Allen",
+    "Last": "Collins",
+    "Band": "Lynyrd Skynyrd",
+    "Date": "90-01-23",
+    "Age": 37,
+    "Cause": "Pneumonia"
+  },
+  {
+    "First": "Rob",
+    "Last": "Collins",
+    "Band": "Charlatans",
+    "Date": "96-07-23",
+    "Age": 32,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Brian",
+    "Last": "Connolly",
+    "Band": "Sweet",
+    "Date": "97-02-09",
+    "Age": 52,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Sam",
+    "Last": "Cooke",
+    "Band": " ",
+    "Date": "64-12-11",
+    "Age": 33,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Vincent",
+    "Last": "Crane",
+    "Band": "Atomic Rooster",
+    "Date": "89-02-01",
+    "Age": 44,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Darby",
+    "Last": "Crash",
+    "Band": "Germs",
+    "Date": "80-12-07",
+    "Age": 22,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Jim",
+    "Last": "Croce",
+    "Band": " ",
+    "Date": "73-09-20",
+    "Age": 30,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Carl",
+    "Last": "Cunningham",
+    "Band": "Bar-Kays",
+    "Date": "67-12-10",
+    "Age": 18,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Ian",
+    "Last": "Curtis",
+    "Band": "Joy Division",
+    "Date": "80-05-18",
+    "Age": 23,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "King",
+    "Last": "Curtis",
+    "Band": " ",
+    "Date": "71-08-13",
+    "Age": 37,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "",
+    "Last": "Dalida",
+    "Band": " ",
+    "Date": "87-05-03",
+    "Age": 53,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Bobby",
+    "Last": "Darin",
+    "Band": " ",
+    "Date": "73-12-20",
+    "Age": 37,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Cyril",
+    "Last": "Davies",
+    "Band": "Blues Incorporated",
+    "Date": "64-01-07",
+    "Age": 31,
+    "Cause": "Cancer",
+    "Specific": "Leukemia"
+  },
+  {
+    "First": "Pete",
+    "Last": "De Freitas",
+    "Band": "Echo & the Bunnymen",
+    "Date": "89-06-14",
+    "Age": " ",
+    "Cause": "Motorcycle accident"
+  },
+  {
+    "First": "Louise",
+    "Last": "Dean",
+    "Band": "Shiva",
+    "Date": "95-07-08",
+    "Age": 24,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Zenon",
+    "Last": "DeFleur",
+    "Band": "Count Bishops",
+    "Date": "79-03-17",
+    "Age": 28,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Sandy",
+    "Last": "Denny",
+    "Band": "Fairport Convention",
+    "Date": "78-04-21",
+    "Age": 31,
+    "Cause": "Fall"
+  },
+  {
+    "First": "John",
+    "Last": "Denver",
+    "Band": " ",
+    "Date": "97-10-12",
+    "Age": 53,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": " ",
+    "Last": "Dimwit",
+    "Band": "DOA",
+    "Date": "94-08-27",
+    "Age": " ",
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Nicholas",
+    "Last": "Dingley",
+    "Band": "Hanoi Rocks",
+    "Date": "84-12-08",
+    "Age": 24,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Tom",
+    "Last": "Donahue",
+    "Band": " ",
+    "Date": "75-04-28",
+    "Age": 46,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Nick",
+    "Last": "Drake",
+    "Band": " ",
+    "Date": "74-11-25",
+    "Age": 26,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Tony",
+    "Last": "Duhig",
+    "Band": "Jade Warrior",
+    "Date": "91-01-..",
+    "Age": " ",
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Bernard",
+    "Last": "Edwards",
+    "Band": "Chic",
+    "Date": "96-04-..",
+    "Age": 43,
+    "Cause": "Pneumonia"
+  },
+  {
+    "First": "Cass",
+    "Last": "Elliot",
+    "Band": "Mamas and Papas",
+    "Date": "74-07-29",
+    "Age": 32,
+    "Cause": "Choked"
+  },
+  {
+    "First": "John",
+    "Last": "Emma",
+    "Band": "Chase",
+    "Date": "74-08-12",
+    "Age": 22,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Tom",
+    "Last": "Evans",
+    "Band": "Badfinger",
+    "Date": "83-11-18",
+    "Age": 36,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "(Hans Holzl)",
+    "Last": "Falco",
+    "Band": " ",
+    "Date": "98-02-06",
+    "Age": 40,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Pete",
+    "Last": "Farndon",
+    "Band": "Pretenders",
+    "Date": "83-04-14",
+    "Age": 30,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Jimmy",
+    "Last": "Fernandez",
+    "Band": "God Machine",
+    "Date": "94-05-12",
+    "Age": 29,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Matthew",
+    "Last": "Fletcher",
+    "Band": "Heavenly",
+    "Date": "96-06-14",
+    "Age": 26,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Tom",
+    "Last": "Fogerty",
+    "Band": "Creedence Clearwater Revival",
+    "Date": "90-09-22",
+    "Age": 49,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Rhett",
+    "Last": "Forrester",
+    "Band": "Riot",
+    "Date": "94-01-22",
+    "Age": 37,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Melvin",
+    "Last": "Franklin",
+    "Band": "Temptations",
+    "Date": "95-02-23",
+    "Age": 52,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Bobby",
+    "Last": "Fuller",
+    "Band": "Bobby Fuller 4",
+    "Date": "66-07-18",
+    "Age": 22,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Billy",
+    "Last": "Fury",
+    "Band": " ",
+    "Date": "83-01-28",
+    "Age": 41,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Cassie",
+    "Last": "Gaines",
+    "Band": "Lynyrd Skynyrd",
+    "Date": "77-10-20",
+    "Age": " ",
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Steven",
+    "Last": "Gaines",
+    "Band": "Lynyrd Skynyrd",
+    "Date": "77-10-20",
+    "Age": 28,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Rory",
+    "Last": "Gallagher",
+    "Band": " ",
+    "Date": "95-06-14",
+    "Age": 47,
+    "Cause": "Alcohol Overdose"
+  },
+  {
+    "First": "Eric",
+    "Last": "Gale",
+    "Band": "Stuff",
+    "Date": "94-05-25",
+    "Age": 55,
+    "Cause": "Cancer",
+    "Specific": "Lungs"
+  },
+  {
+    "First": "Rick",
+    "Last": "Garberson",
+    "Band": "Bizarros",
+    "Date": "79-07-15",
+    "Age": " ",
+    "Cause": "Poison"
+  },
+  {
+    "First": "Jerry",
+    "Last": "Garcia",
+    "Band": "Grateful Dead",
+    "Date": "95-08-09",
+    "Age": 53,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Danny",
+    "Last": "Gatton",
+    "Band": "(session musician)",
+    "Date": "94-10-04",
+    "Age": 49,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Marvin",
+    "Last": "Gaye",
+    "Band": " ",
+    "Date": "84-04-01",
+    "Age": 45,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Lowell",
+    "Last": "George",
+    "Band": "Little Feet",
+    "Date": "79-06-29",
+    "Age": 34,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Andy",
+    "Last": "Gibb",
+    "Band": " ",
+    "Date": "88-03-10",
+    "Age": 30,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Ray",
+    "Last": "Gillen",
+    "Band": "Black Sabbath, Badlands",
+    "Date": "93-12-01",
+    "Age": 33,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Steve",
+    "Last": "Gilpin",
+    "Band": "MI-sex",
+    "Date": "92-11-25",
+    "Age": 41,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "John",
+    "Last": "Glascock",
+    "Band": "Jethro Tull",
+    "Date": "79-11-17",
+    "Age": 28,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Keith",
+    "Last": "Godchaux",
+    "Band": "Grateful Dead",
+    "Date": "80-07-23",
+    "Age": 32,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Dwayne",
+    "Last": "Goettel",
+    "Band": "Skinny Puppy",
+    "Date": "95-08-23",
+    "Age": 31,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Steve",
+    "Last": "Goodman",
+    "Band": " ",
+    "Date": "84-09-20",
+    "Age": 36,
+    "Cause": "Cancer",
+    "Specific": "Leukemia"
+  },
+  {
+    "First": "Bill",
+    "Last": "Graham",
+    "Band": "(concert promotor)",
+    "Date": "91-11-25",
+    "Age": 60,
+    "Cause": "Airplane Crash",
+    "Specific": "Helicopter Crash"
+  },
+  {
+    "First": "Ric",
+    "Last": "Grech",
+    "Band": "Family, Blind Faith",
+    "Date": "90-03-17",
+    "Age": 44,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Albert",
+    "Last": "Grossman",
+    "Band": " ",
+    "Date": "86-01-25",
+    "Age": 59,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Cornell",
+    "Last": "Gunter",
+    "Band": "Coasters",
+    "Date": "90-02-26",
+    "Age": 53,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Woody",
+    "Last": "Guthrie",
+    "Band": " ",
+    "Date": "67-10-03",
+    "Age": 55,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Paul",
+    "Last": "Hackman",
+    "Band": "Helix",
+    "Date": "92-07-05",
+    "Age": 39,
+    "Cause": "Car Accident",
+    "Specific": "Tour Bus"
+  },
+  {
+    "First": "Bill",
+    "Last": "Haley",
+    "Band": " ",
+    "Date": "81-02-09",
+    "Age": 56,
+    "Cause": "Alcohol Overdose"
+  },
+  {
+    "First": "Ollie",
+    "Last": "Hallsall",
+    "Band": "Patto, Timebox, Boxer",
+    "Date": "93-..-..",
+    "Age": 43,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Pete",
+    "Last": "Ham",
+    "Band": "Badfinger",
+    "Date": "75-04-23",
+    "Age": 28,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Roy",
+    "Last": "Hamilton",
+    "Band": " ",
+    "Date": "69-07-20",
+    "Age": 40,
+    "Cause": "Heart Attack"
+  },
+  {
+    "First": "Tim",
+    "Last": "Hardin",
+    "Band": " ",
+    "Date": "80-12-29",
+    "Age": 39,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Slim",
+    "Last": "Harpo",
+    "Band": " ",
+    "Date": "70-01-31",
+    "Age": 43,
+    "Cause": "Heart Attack"
+  },
+  {
+    "First": "Alex",
+    "Last": "Harvey",
+    "Band": "Sensational Alex Harvey Band",
+    "Date": "82-02-04",
+    "Age": 46,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Les",
+    "Last": "Harvey",
+    "Band": "Stone The Crows",
+    "Date": "72-05-03",
+    "Age": 27,
+    "Cause": "Electrocuted"
+  },
+  {
+    "First": "Donny",
+    "Last": "Hathway",
+    "Band": " ",
+    "Date": "79-01-13",
+    "Age": 33,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Ted",
+    "Last": "Hawkins",
+    "Band": " ",
+    "Date": "95-01-01",
+    "Age": 58,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Sean",
+    "Last": "Hayes",
+    "Band": " ",
+    "Date": "95-07-12",
+    "Age": 49,
+    "Cause": "Aids"
+  },
+  {
+    "First": "Eddie",
+    "Last": "Hazel",
+    "Band": "Parliament, Funkadelic",
+    "Date": "93-02-..",
+    "Age": 42,
+    "Cause": "Medical"
+  },
+  {
+    "First": " ",
+    "Last": "Helno",
+    "Band": "Les Negresses Vertes",
+    "Date": "93-01-21",
+    "Age": 29,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Jimi",
+    "Last": "Hendrix",
+    "Band": " ",
+    "Date": "70-09-18",
+    "Age": 27,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Jay",
+    "Last": "Hening",
+    "Band": "Demolition 23",
+    "Date": "97-04-18",
+    "Age": 23,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Gregory",
+    "Last": "Herbert",
+    "Band": "Blood, Sweat & Tears",
+    "Date": "78-..-..",
+    "Age": 28,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Eddie",
+    "Last": "Hinton",
+    "Band": " ",
+    "Date": "95-07-28",
+    "Age": 51,
+    "Cause": "Heart Attack"
+  },
+  {
+    "First": "Bob",
+    "Last": "Hite",
+    "Band": "Canned Heat",
+    "Date": "81-04-05",
+    "Age": 36,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Eldon",
+    "Last": "Hoke (El Duce)",
+    "Band": "the Mentors",
+    "Date": "97-04-19",
+    "Age": 38,
+    "Cause": "Hit by Train"
+  },
+  {
+    "First": "Buddy",
+    "Last": "Holly",
+    "Band": " ",
+    "Date": "59-02-03",
+    "Age": 22,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "James",
+    "Last": "Honeyman-Scott",
+    "Band": "Pretenders",
+    "Date": "82-06-16",
+    "Age": 25,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Shannon",
+    "Last": "Hoon",
+    "Band": "Blind Melon",
+    "Date": "95-10-21",
+    "Age": 28,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Douglas",
+    "Last": "Hopkins",
+    "Band": "Gin Blossoms",
+    "Date": "93-12-05",
+    "Age": 32,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Nicky",
+    "Last": "Hopkins",
+    "Band": "(session musician)",
+    "Date": "94-09-06",
+    "Age": 50,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Keith",
+    "Last": "Hudson",
+    "Band": " ",
+    "Date": "84-11-14",
+    "Age": 38,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Glenn",
+    "Last": "Hughes",
+    "Band": "Village People",
+    "Date": "2001-03-04",
+    "Age": 51,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Alan",
+    "Last": "Hull",
+    "Band": "Lindisfarne",
+    "Date": "95-11-19",
+    "Age": 50,
+    "Cause": "Medical",
+    "Specific": "Coronary Thrombosis"
+  },
+  {
+    "First": "Michael",
+    "Last": "Hutchence",
+    "Band": "INXS",
+    "Date": "97-11-22",
+    "Age": 37,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Phyllis",
+    "Last": "Hyman",
+    "Band": " ",
+    "Date": "95-07-03",
+    "Age": 44,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "O'Kelly",
+    "Last": "Isley",
+    "Band": "Isley Brothers",
+    "Date": "86-03-31",
+    "Age": 48,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Al",
+    "Last": "Jackson",
+    "Band": "Booker T. and the MGs",
+    "Date": "75-10-01",
+    "Age": 39,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Paul Avron",
+    "Last": "Jeffreys",
+    "Band": "Cockney Rebel",
+    "Date": "88-12-21",
+    "Age": 36,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Ken",
+    "Last": "Jensen",
+    "Band": "D.O.A.",
+    "Date": "95-01-29",
+    "Age": " ",
+    "Cause": "Fire"
+  },
+  {
+    "First": "Little Willie",
+    "Last": "John",
+    "Band": " ",
+    "Date": "68-05-27",
+    "Age": 30,
+    "Cause": "Pneumonia",
+    "Specific": "While in Prison"
+  },
+  {
+    "First": "Robert",
+    "Last": "Johnson",
+    "Band": " ",
+    "Date": "38-08-16",
+    "Age": 27,
+    "Cause": "Poison",
+    "Specific": "Poisoned"
+  },
+  {
+    "First": "Billy",
+    "Last": "Jones",
+    "Band": "Outlaws",
+    "Date": "95-02-..",
+    "Age": 45,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Brian",
+    "Last": "Jones",
+    "Band": "Rolling Stones",
+    "Date": "69-07-03",
+    "Age": 27,
+    "Cause": "Drowned"
+  },
+  {
+    "First": "Phalin",
+    "Last": "Jones",
+    "Band": "Bar-Kays",
+    "Date": "67-12-10",
+    "Age": 18,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Janis",
+    "Last": "Joplin",
+    "Band": " ",
+    "Date": "70-10-04",
+    "Age": 27,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Wong",
+    "Last": "Ka Kui",
+    "Band": "Beyond",
+    "Date": "93-06-30",
+    "Age": 31,
+    "Cause": "Fall",
+    "Specific": "Internal Bleeding"
+  },
+  {
+    "First": "Terry",
+    "Last": "Kath",
+    "Band": "Chicago",
+    "Date": "78-01-23",
+    "Age": 32,
+    "Cause": "Gun accident"
+  },
+  {
+    "First": "Tim",
+    "Last": "Kelly",
+    "Band": "Slaughter",
+    "Date": "98-02-05",
+    "Age": 34,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Wells",
+    "Last": "Kelly",
+    "Band": "Orleans, Meat Loaf",
+    "Date": "84-10-29",
+    "Age": 35,
+    "Cause": "Choked"
+  },
+  {
+    "First": "Eddie",
+    "Last": "Kendricks",
+    "Band": "Temptations",
+    "Date": "92-09-..",
+    "Age": 52,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Frankie",
+    "Last": "Kennedy",
+    "Band": "Altan",
+    "Date": "94-10-14",
+    "Age": 38,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Johnny",
+    "Last": "Kidd",
+    "Band": " ",
+    "Date": "66-11-07",
+    "Age": 27,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Freddie",
+    "Last": "King",
+    "Band": " ",
+    "Date": "76-12-28",
+    "Age": 43,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Jimmy",
+    "Last": "King",
+    "Band": "Bar-Kays",
+    "Date": "67-12-10",
+    "Age": 18,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Phil",
+    "Last": "King",
+    "Band": "Blue Oyster Cult",
+    "Date": "72-04-27",
+    "Age": " ",
+    "Cause": "Murdered "
+  },
+  {
+    "First": "Sam",
+    "Last": "Kinison",
+    "Band": " ",
+    "Date": "92-04-10",
+    "Age": 38,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Helmut",
+    "Last": "Koellen",
+    "Band": "Triumvirat",
+    "Date": "77-05-03",
+    "Age": 27,
+    "Cause": "Poison",
+    "Specific": "Accidental"
+  },
+  {
+    "First": "Alexis",
+    "Last": "Korner",
+    "Band": "Blues Incorporated",
+    "Date": "84-01-01",
+    "Age": 56,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Paul",
+    "Last": "Kossoff",
+    "Band": "Free",
+    "Date": "76-03-19",
+    "Age": 26,
+    "Cause": "Heart Attack"
+  },
+  {
+    "First": "Fela",
+    "Last": "Kuti",
+    "Band": " ",
+    "Date": "97-08-02",
+    "Age": 58,
+    "Cause": "Aids"
+  },
+  {
+    "First": "Randy",
+    "Last": "Laire",
+    "Band": "Heathen",
+    "Date": "92-01-..",
+    "Age": " ",
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Martin",
+    "Last": "Lamble",
+    "Band": "Fairport Convention",
+    "Date": "69-06-01",
+    "Age": 19,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Ronnie 'Plonk'",
+    "Last": "Lane",
+    "Band": "Small Faces",
+    "Date": "97-06-04",
+    "Age": 51,
+    "Cause": "Medical",
+    "Specific": "Multiple Sclerosis"
+  },
+  {
+    "First": "Nicolette",
+    "Last": "Larson",
+    "Band": " ",
+    "Date": "97-12-16",
+    "Age": 45,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Peter",
+    "Last": "Laughner",
+    "Band": "Pere Ubu",
+    "Date": "77-06-22",
+    "Age": 24,
+    "Cause": "Medical"
+  },
+  {
+    "First": "John",
+    "Last": "Lennon",
+    "Band": "Beatles",
+    "Date": "80-12-08",
+    "Age": 40,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Philip",
+    "Last": "Lithman",
+    "Band": "Snakefinger",
+    "Date": "87-07-..",
+    "Age": 38,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Trevor",
+    "Last": "Lucas",
+    "Band": "Fairport Convention",
+    "Date": "89-02-04",
+    "Age": 45,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Frankie",
+    "Last": "Lymon",
+    "Band": "The Teenagers",
+    "Date": "68-02-28",
+    "Age": 25,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Phil",
+    "Last": "Lynott",
+    "Band": "Thin Lizzy",
+    "Date": "86-01-04",
+    "Age": 35,
+    "Cause": "Pneumonia",
+    "Specific": "Drug Related"
+  },
+  {
+    "First": "Billy",
+    "Last": "MacKenzie",
+    "Band": "Associates",
+    "Date": "97-01-23",
+    "Age": 39,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "David",
+    "Last": "Mankaba",
+    "Band": "Bhundu Boys",
+    "Date": "91-10-..",
+    "Age": " ",
+    "Cause": "Aids"
+  },
+  {
+    "First": "Geoff",
+    "Last": "Mann",
+    "Band": "Twelfth Night",
+    "Date": "93-03-..",
+    "Age": " ",
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Richard",
+    "Last": "Manual",
+    "Band": "The Band",
+    "Date": "86-03-04",
+    "Age": 42,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Bob",
+    "Last": "Marley",
+    "Band": " ",
+    "Date": "81-05-11",
+    "Age": 36,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Steve",
+    "Last": "Marriott",
+    "Band": "Small Faces, Humble Pie",
+    "Date": "90-04-20",
+    "Age": 43,
+    "Cause": "Fire"
+  },
+  {
+    "First": "Van",
+    "Last": "McCoy",
+    "Band": " ",
+    "Date": "79-07-06",
+    "Age": 38,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Jimmy",
+    "Last": "McCulloch",
+    "Band": "Wings",
+    "Date": "79-09-27",
+    "Age": 27,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Sean",
+    "Last": "McDonnell",
+    "Band": "Surgery",
+    "Date": "95-01-18",
+    "Age": 29,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Robbie",
+    "Last": "McIntosh",
+    "Band": "Average White Band",
+    "Date": "74-09-23",
+    "Age": 23,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Ron 'Pigpen'",
+    "Last": "McKernan",
+    "Band": "Grateful Dead",
+    "Date": "73-03-08",
+    "Age": 27,
+    "Cause": "Alcohol Overdose"
+  },
+  {
+    "First": "Harold",
+    "Last": "McNair",
+    "Band": "Ginger Baker's Airforce",
+    "Date": "71-03-26",
+    "Age": " ",
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Clyde",
+    "Last": "McPhatter",
+    "Band": "Drifters",
+    "Date": "72-16-13",
+    "Age": 38,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Don",
+    "Last": "McPherson",
+    "Band": "Main Ingredient",
+    "Date": "71-04-04",
+    "Age": 39,
+    "Cause": "Cancer",
+    "Specific": "Leukemia"
+  },
+  {
+    "First": "Joe",
+    "Last": "Meek",
+    "Band": "(producer)",
+    "Date": "67-02-03",
+    "Age": 38,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Harold",
+    "Last": "Melvin",
+    "Band": "Harold Melvin & the Bluenotes",
+    "Date": "97-03-24",
+    "Age": 57,
+    "Cause": "Stroke"
+  },
+  {
+    "First": "Jonathan",
+    "Last": "Melvoin",
+    "Band": "Smashing Pumpkins",
+    "Date": "96-07-11",
+    "Age": 34,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Freddie",
+    "Last": "Mercury",
+    "Band": "Queen",
+    "Date": "91-11-24",
+    "Age": 45,
+    "Cause": "Aids"
+  },
+  {
+    "First": "Jacob",
+    "Last": "Miller",
+    "Band": "Inner Circle",
+    "Date": "80-02-21",
+    "Age": 23,
+    "Cause": "Traffic Accident"
+  },
+  {
+    "First": "Jimmy",
+    "Last": "Miller",
+    "Band": "(producer)",
+    "Date": "94-10-22",
+    "Age": 52,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Country' Dick",
+    "Last": "Montana",
+    "Band": "Beat Farmers",
+    "Date": "95-11-..",
+    "Age": 40,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Keith",
+    "Last": "Moon",
+    "Band": "Who",
+    "Date": "78-09-07",
+    "Age": 32,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Jim",
+    "Last": "Morrison",
+    "Band": "Doors",
+    "Date": "71-07-03",
+    "Age": 27,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Sterling",
+    "Last": "Morrison",
+    "Band": "Velvet Underground",
+    "Date": "95-08-30",
+    "Age": 53,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Bill",
+    "Last": "Murcia",
+    "Band": "New York Dolls",
+    "Date": "72-11-06",
+    "Age": 21,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Dee",
+    "Last": "Murray",
+    "Band": "Elton John",
+    "Date": "92-02-..",
+    "Age": 45,
+    "Cause": "Stroke"
+  },
+  {
+    "First": "Brent",
+    "Last": "Mydland",
+    "Band": "Grateful Dead",
+    "Date": "90-07-01",
+    "Age": 38,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Don",
+    "Last": "Myrick",
+    "Band": "Earth, Wind & Fire",
+    "Date": "93-07-30",
+    "Age": 53,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Rick",
+    "Last": "Nelson",
+    "Band": " ",
+    "Date": "85-12-31",
+    "Age": 45,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "(Christa Paffgen)",
+    "Last": "Nico",
+    "Band": "Velvet Underground",
+    "Date": "88-07-18",
+    "Age": 44,
+    "Cause": "Medical",
+    "Specific": "Cerebral Hemorrhage"
+  },
+  {
+    "First": "Harry",
+    "Last": "Nilsson",
+    "Band": " ",
+    "Date": "94-01-15",
+    "Age": 52,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Jerry",
+    "Last": "Nolan",
+    "Band": "New York Dolls, Heartbreakers",
+    "Date": "92-02-..",
+    "Age": 45,
+    "Cause": "Stroke"
+  },
+  {
+    "First": "Yogi",
+    "Last": "Norton",
+    "Band": "Luther Vandross",
+    "Date": "87-06-..",
+    "Age": " ",
+    "Cause": "Suicide"
+  },
+  {
+    "First": " ",
+    "Last": "Notorious BIG",
+    "Band": " ",
+    "Date": "97-03-09",
+    "Age": 24,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Bradley",
+    "Last": "Nowell",
+    "Band": "Sublime",
+    "Date": "96-05-25",
+    "Age": 28,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": " ",
+    "Last": "Nusrat Fateh Ali Khan",
+    "Band": " ",
+    "Date": "97-08-16",
+    "Age": 48,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Laura",
+    "Last": "Nyro",
+    "Band": " ",
+    "Date": "97-04-08",
+    "Age": 49,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Berry",
+    "Last": "Oakley",
+    "Band": "Allman Brothers Band",
+    "Date": "72-11-10",
+    "Age": 24,
+    "Cause": "Motorcycle accident"
+  },
+  {
+    "First": "Phil",
+    "Last": "Ochs",
+    "Band": " ",
+    "Date": "76-04-07",
+    "Age": 35,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Frank",
+    "Last": "O'Keefe",
+    "Band": "Outlaws",
+    "Date": "95-02-..",
+    "Age": " ",
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Criss",
+    "Last": "Oliva",
+    "Band": "Savatage",
+    "Date": "93-10-17",
+    "Age": " ",
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Roy",
+    "Last": "Orbison",
+    "Band": " ",
+    "Date": "88-12-07",
+    "Age": 52,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Malcolm",
+    "Last": "Owen",
+    "Band": "Ruts",
+    "Date": "80-07-14",
+    "Age": 24,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "John",
+    "Last": "Panozzo",
+    "Band": "Styx",
+    "Date": "96-07-16",
+    "Age": 47,
+    "Cause": "Alcohol Overdose"
+  },
+  {
+    "First": "Felix",
+    "Last": "Pappalardi",
+    "Band": "Mountain",
+    "Date": "83-04-17",
+    "Age": 43,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Junior",
+    "Last": "Parker",
+    "Band": " ",
+    "Date": "71-11-18",
+    "Age": 44,
+    "Cause": "Brain Tumor"
+  },
+  {
+    "First": "Gram",
+    "Last": "Parsons",
+    "Band": "Byrds",
+    "Date": "73-09-19",
+    "Age": 26,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "John 'Jaco'",
+    "Last": "Pastorius",
+    "Band": "Weather Report",
+    "Date": "87-09-21",
+    "Age": 35,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Mike",
+    "Last": "Patto",
+    "Band": "Patto, Spooky Tooth",
+    "Date": "79-03-04",
+    "Age": 36,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Lawrence",
+    "Last": "Payton",
+    "Band": "Four Tops",
+    "Date": "97-05-..",
+    "Age": 59,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Tracy",
+    "Last": "Pew",
+    "Band": "Birthday Party",
+    "Date": "86-11-..",
+    "Age": 28,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Kristen",
+    "Last": "Pfaff",
+    "Band": "Hole",
+    "Date": "94-06-16",
+    "Age": 24,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Esther",
+    "Last": "Phillips",
+    "Band": " ",
+    "Date": "84-08-07",
+    "Age": 48,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "John",
+    "Last": "Phillips",
+    "Band": "Mammas and Papas",
+    "Date": "2001-04-18",
+    "Age": 65,
+    "Cause": "Organ Failure",
+    "Specific": "Heart Failure"
+  },
+  {
+    "First": "Kenny",
+    "Last": "Pickett",
+    "Band": "Creation",
+    "Date": "97-01-07",
+    "Age": 49,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Jeffrey Lee",
+    "Last": "Pierce",
+    "Band": "Gun Club",
+    "Date": "96-03-31",
+    "Age": 37,
+    "Cause": "Stroke"
+  },
+  {
+    "First": "Robert",
+    "Last": "Pilatus",
+    "Band": "Milli Vanilli",
+    "Date": "98-04-02",
+    "Age": 32,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Jeff",
+    "Last": "Porcaro",
+    "Band": "Toto",
+    "Date": "92-08-05",
+    "Age": 38,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "William",
+    "Last": "Powel",
+    "Band": "O'Jays",
+    "Date": "77-05-26",
+    "Age": " ",
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Cozy",
+    "Last": "Powell",
+    "Band": "Rainbow, Whitesnake, etc.",
+    "Date": "98-04-05",
+    "Age": 50,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Elvis",
+    "Last": "Presley",
+    "Band": " ",
+    "Date": "77-08-16",
+    "Age": 42,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Rainer",
+    "Last": "Ptacek",
+    "Band": "Rainer & Das Combo",
+    "Date": "97-11-12",
+    "Age": 43,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Carl",
+    "Last": "Radle",
+    "Band": "Derek and the Dominos",
+    "Date": "80-05-30",
+    "Age": 38,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Bobby",
+    "Last": "Ramirez",
+    "Band": "Edgar Winter's White Trash",
+    "Date": "72-07-24",
+    "Age": 23,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Joey",
+    "Last": "Ramone",
+    "Band": "Ramones",
+    "Date": "2001-04-15",
+    "Age": 49,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Otis",
+    "Last": "Redding",
+    "Band": " ",
+    "Date": "67-12-10",
+    "Age": 26,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Keith",
+    "Last": "Relf",
+    "Band": "Yardbirds, Renaissance",
+    "Date": "76-05-14",
+    "Age": 33,
+    "Cause": "Electrocuted"
+  },
+  {
+    "First": "Randy",
+    "Last": "Rhoades",
+    "Band": "Quiet Riot, Ozzy Osbourne",
+    "Date": "82-03-20",
+    "Age": 26,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "J.P.",
+    "Last": "Richardson",
+    "Band": "(The Big Bopper)",
+    "Date": "59-02-03",
+    "Age": 24,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Minnie",
+    "Last": "Ripperton",
+    "Band": " ",
+    "Date": "79-07-12",
+    "Age": 30,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Mick",
+    "Last": "Ronson",
+    "Band": "David Bowie",
+    "Date": "93-04-30",
+    "Age": 47,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "John",
+    "Last": "Rostill",
+    "Band": "Shadows",
+    "Date": "73-11-01",
+    "Age": 31,
+    "Cause": "Electrocuted"
+  },
+  {
+    "First": "Dave",
+    "Last": "Rowbotham",
+    "Band": "Durutti Column",
+    "Date": "92-01-..",
+    "Age": 34,
+    "Cause": "Accident"
+  },
+  {
+    "First": "David",
+    "Last": "Ruffin",
+    "Band": "Temptations",
+    "Date": "91-06-01",
+    "Age": 50,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Paul",
+    "Last": "Ryan",
+    "Band": "Paul & Berry Ryan",
+    "Date": "92-12-..",
+    "Age": 44,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Stefanie",
+    "Last": "Sargent",
+    "Band": "7 Year Bitch",
+    "Date": "92-06-27",
+    "Age": 24,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "David",
+    "Last": "Savoy Jr.",
+    "Band": "Husker Du",
+    "Date": "87-02-..",
+    "Age": 25,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Ingo",
+    "Last": "Schwichtenberg",
+    "Band": "Helloween",
+    "Date": "95-03-08",
+    "Age": 29,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Bon",
+    "Last": "Scott",
+    "Band": "AC/DC",
+    "Date": "80-02-19",
+    "Age": 33,
+    "Cause": "Alcohol Overdose"
+  },
+  {
+    "First": " ",
+    "Last": "Selena",
+    "Band": " ",
+    "Date": "95-03-31",
+    "Age": 23,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Tupac",
+    "Last": "Shakur",
+    "Band": " ",
+    "Date": "96-09-13",
+    "Age": 25,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Del",
+    "Last": "Shannon",
+    "Band": " ",
+    "Date": "90-02-08",
+    "Age": 51,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Will",
+    "Last": "Shatter",
+    "Band": "Flipper",
+    "Date": "87-12-09",
+    "Age": 31,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "James",
+    "Last": "Sheppard",
+    "Band": "Shep & the Limelights",
+    "Date": "70-01-24",
+    "Age": 24,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Guitar",
+    "Last": "Slim",
+    "Band": " ",
+    "Date": "59-02-07",
+    "Age": 32,
+    "Cause": "Pneumonia"
+  },
+  {
+    "First": "Hillel",
+    "Last": "Slovak",
+    "Band": "Red Hot Chili Peppers",
+    "Date": "88-06-??",
+    "Age": 25,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Fred 'Sonic'",
+    "Last": "Smith",
+    "Band": "MC5",
+    "Date": "94-11-05",
+    "Age": 45,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Ray",
+    "Last": "Smith",
+    "Band": "Heads Hands & Feet",
+    "Date": "79-11-29",
+    "Age": 45,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Epic",
+    "Last": "Soundtracks",
+    "Band": "Swell Maps",
+    "Date": "97-11-22",
+    "Age": 38,
+    "Cause": "Unknown"
+  },
+  {
+    "First": "Otis",
+    "Last": "Spann",
+    "Band": " ",
+    "Date": "70-04-25",
+    "Age": 40,
+    "Cause": "Cancer",
+    "Specific": "Liver"
+  },
+  {
+    "First": "Vivian",
+    "Last": "Stanshall",
+    "Band": "Bonzo Dog Band",
+    "Date": "95-03-05",
+    "Age": 51,
+    "Cause": "Fire"
+  },
+  {
+    "First": "Ian",
+    "Last": "Steward",
+    "Band": "Rolling Stones",
+    "Date": "85-12-12",
+    "Age": 47,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Billy",
+    "Last": "Stewart",
+    "Band": " ",
+    "Date": "70-01-17",
+    "Age": " ",
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Bob",
+    "Last": "Stinson",
+    "Band": "Replacements",
+    "Date": "95-02-20",
+    "Age": 35,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Rory",
+    "Last": "Storm",
+    "Band": "Rory Storm and the Hurricanes",
+    "Date": "72-09-27",
+    "Age": 32,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Lynn",
+    "Last": "Strait",
+    "Band": "Snot",
+    "Date": "98-12-11",
+    "Age": 30,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Stu",
+    "Last": "Sutcliff",
+    "Band": "Beatles",
+    "Date": "62-04-10",
+    "Age": 21,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Vinnie",
+    "Last": "Taylor",
+    "Band": "Sha Na Na",
+    "Date": "74-04-17",
+    "Age": 25,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Tommy",
+    "Last": "Tedesco",
+    "Band": "(session musician)",
+    "Date": "97-10-11",
+    "Age": 53,
+    "Cause": "Cancer",
+    "Specific": "Lung"
+  },
+  {
+    "First": "Biggie",
+    "Last": "Tempo",
+    "Band": "Bhundu Boys",
+    "Date": "95-08-13",
+    "Age": 37,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Tammi",
+    "Last": "Terrell",
+    "Band": " ",
+    "Date": "70-03-16",
+    "Age": 24,
+    "Cause": "Brain Tumor"
+  },
+  {
+    "First": "Joe",
+    "Last": "Tex",
+    "Band": " ",
+    "Date": "82-08-13",
+    "Age": 49,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Gary",
+    "Last": "Thain",
+    "Band": "Uriah Heep",
+    "Date": "76-03-19",
+    "Age": 27,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Jason",
+    "Last": "Thirsk",
+    "Band": "Pennywise",
+    "Date": "96-07-28",
+    "Age": 27,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Johnny",
+    "Last": "Thunders",
+    "Band": "New York Dolls",
+    "Date": "91-04-23",
+    "Age": 38,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Steve",
+    "Last": "Took",
+    "Band": "T-Rex",
+    "Date": "80-10-27",
+    "Age": 31,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Peter",
+    "Last": "Tosh",
+    "Band": " ",
+    "Date": "87-09-11",
+    "Age": 42,
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Nicholas",
+    "Last": "Traina",
+    "Band": "Link 80",
+    "Date": "97-08-21",
+    "Age": 19,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Arnie",
+    "Last": "Treffers",
+    "Band": "Long Tall Ernie & the Shakers",
+    "Date": "95-08-25",
+    "Age": 48,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Tommy",
+    "Last": "Tucker",
+    "Band": "Louisiana Red",
+    "Date": "82-01-17",
+    "Age": 43,
+    "Cause": "Poison"
+  },
+  {
+    "First": "Rob",
+    "Last": "Tyner",
+    "Band": "MC5",
+    "Date": "91-09-17",
+    "Age": 46,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Richie",
+    "Last": "Valens",
+    "Band": " ",
+    "Date": "59-02-03",
+    "Age": 17,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Dino",
+    "Last": "Valenti",
+    "Band": "Quicksilver Messenger Service",
+    "Date": "94-11-16",
+    "Age": 51,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Townes",
+    "Last": "Van Zandt",
+    "Band": " ",
+    "Date": "97-01-01",
+    "Age": 52,
+    "Cause": "Alcohol Overdose"
+  },
+  {
+    "First": "Ronnie",
+    "Last": "Van Zant",
+    "Band": "Lynyrd Skynyrd",
+    "Date": "77-10-20",
+    "Age": 29,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Stevie Ray",
+    "Last": "Vaughan",
+    "Band": " ",
+    "Date": "90-08-27",
+    "Age": 35,
+    "Cause": "Airplane Crash",
+    "Specific": "Helicopter Crash"
+  },
+  {
+    "First": "Henry",
+    "Last": "Vestine",
+    "Band": "Canned Heat",
+    "Date": "97-10-20",
+    "Age": 52,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Sid",
+    "Last": "Vicious",
+    "Band": "Sex Pistols",
+    "Date": "79-02-02",
+    "Age": 21,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Gene",
+    "Last": "Vincent",
+    "Band": " ",
+    "Date": "71-10-12",
+    "Age": 36,
+    "Cause": "Alcohol Overdose"
+  },
+  {
+    "First": "Jr.",
+    "Last": "Walker",
+    "Band": " ",
+    "Date": "95-12-..",
+    "Age": 53,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Clarence",
+    "Last": "White",
+    "Band": "Byrds",
+    "Date": "73-07-14",
+    "Age": 29,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Danny",
+    "Last": "Whitten",
+    "Band": "Crazy Horse",
+    "Date": "72-11-18",
+    "Age": 29,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Simon",
+    "Last": "Wilde",
+    "Band": "DOA",
+    "Date": "91-05-04",
+    "Age": " ",
+    "Cause": "Brain Tumor"
+  },
+  {
+    "First": "Paul",
+    "Last": "Williams",
+    "Band": "Temptations",
+    "Date": "73-08-17",
+    "Age": 34,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Tony",
+    "Last": "Williams",
+    "Band": "Tony Williams Lifetime Band",
+    "Date": "96-02-23",
+    "Age": 52,
+    "Cause": "Heart attack"
+  },
+  {
+    "First": "Wendy O.",
+    "Last": "Williams",
+    "Band": "Plasmatics",
+    "Date": "98-04-06",
+    "Age": 48,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Chuck",
+    "Last": "Willis",
+    "Band": " ",
+    "Date": "58-04-10",
+    "Age": 30,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Al",
+    "Last": "Wilson",
+    "Band": "Canned Heat",
+    "Date": "70-09-03",
+    "Age": 27,
+    "Cause": "Suicide"
+  },
+  {
+    "First": "Barrie B.J.",
+    "Last": "Wilson",
+    "Band": "Procol Harum",
+    "Date": "90-10-..",
+    "Age": 43,
+    "Cause": "Car Accident"
+  },
+  {
+    "First": "Carl",
+    "Last": "Wilson",
+    "Band": "Beach Boys",
+    "Date": "98-02-06",
+    "Age": 51,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Dennis",
+    "Last": "Wilson",
+    "Band": "Beach Boys",
+    "Date": "83-12-28",
+    "Age": 39,
+    "Cause": "Drowned"
+  },
+  {
+    "First": "Jackie",
+    "Last": "Wilson",
+    "Band": " ",
+    "Date": "84-01-12",
+    "Age": 49,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Ricky",
+    "Last": "Wilson",
+    "Band": "B-52's",
+    "Date": "85-10-13",
+    "Age": 32,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Kurt",
+    "Last": "Winter",
+    "Band": "Guess Who",
+    "Date": "97-12-15",
+    "Age": 51,
+    "Cause": "Organ Failure",
+    "Specific": "Liver Failure"
+  },
+  {
+    "First": "John Christian",
+    "Last": "Wolters",
+    "Band": "Dr. Hook",
+    "Date": "97-06-16",
+    "Age": 52,
+    "Cause": "Cancer"
+  },
+  {
+    "First": "Andrew",
+    "Last": "Wood",
+    "Band": "Mother Love Bone",
+    "Date": "90-03-19",
+    "Age": 24,
+    "Cause": "Drug Overdose"
+  },
+  {
+    "First": "Chris",
+    "Last": "Wood",
+    "Band": "Traffic",
+    "Date": "83-07-12",
+    "Age": 39,
+    "Cause": "Medical"
+  },
+  {
+    "First": "Wallace",
+    "Last": "Yohn",
+    "Band": "Chase",
+    "Date": "74-08-12",
+    "Age": 27,
+    "Cause": "Airplane Crash"
+  },
+  {
+    "First": "Mia",
+    "Last": "Zapata",
+    "Band": "Gits",
+    "Date": "93-07-07",
+    "Age": " ",
+    "Cause": "Murdered"
+  },
+  {
+    "First": "Frank",
+    "Last": "Zappa",
+    "Band": "Mothers of Invention",
+    "Date": "93-12-04",
+    "Age": 52,
+    "Cause": "Cancer"
+  }
+]

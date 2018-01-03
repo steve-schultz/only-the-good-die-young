@@ -1,0 +1,231 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald:300,400,500");
+.App {
+  text-align: center;
+  font-family: 'Oswald'; }
+
+.App-header {
+  background-color: transparent;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow: scroll;
+  display: inline-block;
+  height: 100vh;
+  width: 25vw;
+  margin-left: -23vw;
+  transition: .5s ease-in-out;
+  z-index: 8;
+  color: black; }
+  @media (max-width: 768px) {
+    .App-header {
+      transform: rotate(-90deg);
+      transform-origin: top left;
+      margin-left: 0 !important;
+      top: 40px;
+      width: 40px;
+      height: 100vw; } }
+  .App-header:hover {
+    transform: translateX(20vw); }
+    @media (max-width: 768px) {
+      .App-header:hover {
+        width: 100vw;
+        transform: translateX(0); } }
+  .App-header .key {
+    color: white;
+    font-weight: 300;
+    background-color: black; }
+    .App-header .key-color {
+      text-align: center;
+      height: 25px; }
+    .App-header .key-title {
+      line-height: 25px;
+      font-size: 14px; }
+      @media (max-width: 768px) {
+        .App-header .key-title {
+          margin-left: 40px; } }
+
+.Cells {
+  width: 98vw;
+  display: inline-block;
+  margin-top: 32px;
+  margin-bottom: 100px;
+  opacity: .9;
+  margin-left: 2vw; }
+  @media (max-width: 768px) {
+    .Cells {
+      width: 100vw;
+      margin-left: 0 !important;
+      width: 100vw !important; } }
+  .Cells--grid {
+    width: 170px;
+    display: inline-block; }
+    @media (min-width: 1400px) {
+      .Cells--grid {
+        width: 170px; } }
+    @media (max-width: 768px) {
+      .Cells--grid {
+        width: 170px;
+        margin-left: 0 !important; } }
+
+.cell {
+  height: 64px;
+  letter-spacing: 2px;
+  margin-top: 18px;
+  text-align: left;
+  display: inline-block;
+  box-sizing: border-box;
+  letter-spacing: 1px; }
+  .cell:nth-of-type(even) .cell--bg {
+    transform: rotate(180deg); }
+  .cell .cell--block {
+    height: 64px;
+    overflow: hidden;
+    box-sizing: border-box; }
+    .cell .cell--block .wrapper {
+      overflow: hidden;
+      margin: 0 21px;
+      height: 39px;
+      position: relative;
+      text-align: center; }
+      .cell .cell--block .wrapper:nth-of-type(odd) {
+        top: 0; }
+      .cell .cell--block .wrapper:nth-of-type(even) {
+        bottom: 0; }
+    .cell .cell--block .bottom {
+      width: 170px;
+      height: 25px;
+      text-align: center;
+      position: relative; }
+      .cell .cell--block .bottom:nth-of-type(odd) {
+        bottom: 0; }
+      .cell .cell--block .bottom:nth-of-type(even) {
+        top: 0; }
+  .cell .info {
+    min-height: 64px;
+    margin-top: -56px;
+    margin-left: 21px;
+    margin-right: 21px;
+    z-index: 200;
+    text-align: center;
+    overflow: hidden;
+    position: relative; }
+    .cell .info .age {
+      font-size: 10px;
+      color: white; }
+    .cell .info .name {
+      color: white;
+      font-size: 12px;
+      font-weight: 300;
+      text-transform: uppercase; }
+    .cell .info .band {
+      color: white;
+      font-size: 12px;
+      line-height: 24px;
+      font-weight: 300; }
+    .cell .info .cause {
+      color: white;
+      font-size: 12px;
+      line-height: 24px;
+      font-weight: 300; }
+  .cell:hover {
+    transform: scale(1.1) translateZ(1000px); }
+
+.Modal {
+  position: absolute;
+  top: 16px;
+  left: 100px;
+  right: 100px;
+  bottom: 40px;
+  background-color: white;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.6); }
+  .Modal-close-button {
+    background: black;
+    border: 4px solid black;
+    border-radius: 0;
+    color: white;
+    padding: 16px;
+    position: fixed;
+    right: 32px; }
+  .Modal:focus {
+    outline: none; }
+
+.Overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.3); }
+
+.modal-info {
+  color: white;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  margin-top: -24px;
+  padding: 48px; }
+
+.medical {
+  background-color: #fd602d; }
+
+.heart-attack {
+  background-color: #93222b; }
+
+.drug-overdose {
+  background-color: #78c591; }
+
+.cancer {
+  background-color: #d4dd42; }
+
+.suicide {
+  background-color: #585659; }
+
+.car-accident {
+  background-color: #a2dce8; }
+
+.brain-tumor {
+  background-color: #f49090; }
+
+.motorcycle-accident {
+  background-color: Purple; }
+
+.airplane-crash {
+  background-color: #f7c52e; }
+
+.murdered {
+  background-color: #ee3678; }
+
+.alcohol-overdose {
+  background-color: #ada96a; }
+
+.accident {
+  background-color: #677750; }
+
+.drowned {
+  background-color: #366052; }
+
+.aids {
+  background-color: #fd3c2d; }
+
+.poisoned {
+  background-color: #9b5464; }
+
+.electrocuted {
+  background-color: #94ce94; }
+
+.fire {
+  background-color: #cde39b; }
+
+.unknown {
+  background-color: #ae9da7; }
+
+.choked {
+  background-color: #b2ac92; }
+
+.fall {
+  background-color: black; }
+
+.brain-aneurysm {
+  background-color: purple; }
