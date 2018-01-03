@@ -154,6 +154,7 @@ font-family: 'Oswald';
     text-align: center;
     overflow: hidden;
     position: relative;
+    cursor: pointer;
 
     .age  {
       font-size: 10px;
@@ -185,6 +186,7 @@ font-family: 'Oswald';
 // Modify cell on Hover
   &:hover{
     transform: scale(1.1) translateZ(1000px);
+    cursor: pointer;
   }
 }
 
@@ -230,6 +232,10 @@ font-family: 'Oswald';
   margin-top: -24px;
   padding: 48px;
 }
+
+//=========================================
+//                COLORS                 ==
+//=======================================//
 
 //Color Variables
 $misc-medical: rgba(253,96,45,1);

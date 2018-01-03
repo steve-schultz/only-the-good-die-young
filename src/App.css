@@ -108,7 +108,8 @@
     z-index: 200;
     text-align: center;
     overflow: hidden;
-    position: relative; }
+    position: relative;
+    cursor: pointer; }
     .cell .info .age {
       font-size: 10px;
       color: white; }
@@ -128,7 +129,8 @@
       line-height: 24px;
       font-weight: 300; }
   .cell:hover {
-    transform: scale(1.1) translateZ(1000px); }
+    transform: scale(1.1) translateZ(1000px);
+    cursor: pointer; }
 
 .Modal {
   position: absolute;
